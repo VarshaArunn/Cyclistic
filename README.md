@@ -66,33 +66,33 @@ Now I had enough data that I could plug into tableau and create some visualzatio
 
 ## Share
 
-For my visualizations, I really wanted to emphasize only the data that illustrated the key differences between casual riders and members. To accomplish this, I found that a few of my queries were not crucial to anwering the business task.
+In crafting my visualizations, my primary objective was to accentuate the data that effectively highlighted the significant distinctions between casual riders and members. To achieve this focus, I identified certain queries that were not essential to addressing the core business task.
 
-I compile my dashboard, I included the following visualizations:here (https://github.com/VarshaArunn/Cyclistic/blob/main/cyclistic.jpg)
+Upon compiling my dashboard, I incorporated the following visualizations:[here](https://github.com/VarshaArunn/Cyclistic/blob/main/cyclistic.jpg)
 * **Trips per rider type**
 * **Trips per Bike Type**
 * **Average ride length per rider type**
 * **Top Start and end stations**
 * **Number of trips per month, day, and hour**
 
-Here is a summary of the key differences found between Members and Casual Riders:
+Here is a summary highlighting the key distinctions observed between Members and Casual Riders:
 
 **Members:**
-* Members primarily use bikes for daily commutes to work, university, etc.
-* Top bike stations are strategically located near colleges and office buildings downtown.
+* Members predominantly utilize bikes for daily commuting to work, university, etc.
+* The top bike stations are strategically positioned near colleges and office buildings in the downtown area.
 * Average ride length is shorter and consistent, indicating routine travel to familiar destinations.
-* Peak months are from May to September, coinciding with favorable weather for bike usage.
-* Peak activity occurs on weekdays during working and school hours, with spikes at 8 AM, 12 PM, and 5 PM.
+* Peak months extend from May to September, coinciding with favorable weather for bike usage.
+* Peak activity is concentrated on weekdays during working and school hours, with notable spikes at 8 AM, 12 PM, and 5 PM.
 
 **Casual Riders:**
 * Casual riders use bikes for leisure and entertainment purposes.
-* Top bike stations are located along the waterfront and near popular entertainment attractions.
-* Casual riders have longer average ride lengths, using bikes for strolling and exploration.
-* Peak months align with the warmer months of the year.
-* Peak activity happens during weekends, with steady increases around noon, reaching the highest point at 5 PM.
+* The primary bike stations are situated along the waterfront and in proximity to popular entertainment attractions.
+* Casual riders exhibit longer average ride lengths, utilizing bikes for strolling and exploration.
+* Peak months align with the warmer periods of the year.
+*Peak activity occurs during weekends, with a steady increase around noon, reaching its zenith at 5 PM..
 
 **Comparison of Casual Riders and Members:**
-* Casual riders use bikes for leisure, while members use them for daily commuting.
+* Casual riders employ bikes for leisure, while members use them for daily commuting.
 * Top station locations differ, with members favoring areas near colleges and office buildings, and casual riders near entertainment spots and waterfront.
 * Average ride length varies, shorter and consistent for members, longer and more exploratory for casual riders.
 * Peak months align with weather for both groups, but peak days differ - weekdays for members and weekends for casual riders.
