@@ -68,7 +68,7 @@ Now I had enough data that I could plug into tableau and create some visualzatio
 
 For my visualizations, I really wanted to emphasize only the data that illustrated the key differences between casual riders and members. To accomplish this, I found that a few of my queries were not crucial to anwering the business task.
 
-I compile my dashboard, I included the following visualizations:
+I compile my dashboard, I included the following visualizations:here (https://github.com/VarshaArunn/Cyclistic/blob/main/cyclistic.jpg)
 * **Trips per rider type**
 * **Trips per Bike Type**
 * **Average ride length per rider type**
