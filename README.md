@@ -65,7 +65,6 @@ Upon extracting the designated data using my queries, I promptly observed a few 
 Now I had enough data that I could plug into tableau and create some visualzations and a dashboard.
 
 ## Share
-The dashboard I created for this project can be found on tableau [here](https://public.tableau.com/app/profile/tucker.trost/viz/CyclisticCaseStudy-GoogleDataAnalysticsCertificate/CyclisticCaseStudy)
 
 For my visualizations, I really wanted to emphasize only the data that illustrated the key differences between casual riders and members. To accomplish this, I found that a few of my queries were not crucial to anwering the business task.
 
@@ -100,12 +99,12 @@ Here is a summary of the key differences found between Members and Casual Riders
 * Activity spikes occur at different times of the day, with members commuting during work hours and casual riders using bikes mainly during leisure hours.
 
 ## Act
-Based on my analysis, I came up with the following reccomendations that I believe will help the marketing team create an effective campaign to convert casual riders into members:
+Following my analysis, I have formulated the following recommendations aimed at assisting the marketing team in devising an impactful campaign to convert casual riders into members:
 
-***1. Summer Adventure Membership:* Offer a seasonal membership for summer (May to August) tailored for casual riders, emphasizing bikes near waterfront attractions and entertainment spots.**
+***1. Summer Adventure Membership:*  Introduce a seasonal membership tailored for the summer months (May to August), targeting casual riders and highlighting bikes located near waterfront attractions and entertainment hotspots.**
 
-***2. Waterfront Wonders Promotion:* Advertise the campaign at water-adjacent bike stations popular among casual riders, showcasing the benefits of membership.**
+***2. Waterfront Wonders Promotion:* Promote the campaign at bike stations near waterfront areas, popular among casual riders. Emphasize the advantages of membership through compelling advertising.**
 
-***3. Weekend Explorer Discounts:* Provide exclusive discounts for weekends and longer rides to incentivize casual riders to become members and enjoy cost savings.**
+***3. Weekend Explorer Discounts:* Offer exclusive discounts for weekends and extended rides to encourage casual riders to become members, showcasing the potential cost savings and benefits of membership.**
 
 By adopting these streamlined strategies, the marketing campaign can successfully transform occasional riders into esteemed members, enhancing their biking experience throughout the summer season
