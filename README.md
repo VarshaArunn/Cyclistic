@@ -55,9 +55,9 @@ To answer this question, there were a few things that I identified that I could 
 * **Total # of trips and average length of trip per rider type per month, day, and hour of day**
 * **Most Popular Start and End Stations per rider type**
 
-All SQL queries can be found [here](https://github.com/tuckertrost/Cyclistic-Case-Study/blob/main/DataAnalysis.sql)
+All SQL queries can be found [here](https://github.com/VarshaArunn/DataAnalysisSQL/commit/9053e95dd4b3dd6b15983606f34f07b2f92bbf0a)
 
-After pulling the specified data with my queries, I noticed a few things right off the bat:
+Upon extracting the designated data using my queries, I promptly observed a few noteworthy aspects:
 * Members had around a million more trips in 2022 than causl riders.
 * Causal riders trips on average lasted around double the length of members
 * The summer months had peak activity for both casual and member riders.
@@ -75,10 +75,6 @@ I compile my dashboard, I included the following visualizations:
 * **Average ride length per rider type**
 * **Top Start and end stations**
 * **Number of trips per month, day, and hour**
-
-Here is a look at the dashboard
-
-![Dashboard Screenshot](https://github.com/tuckertrost/Cyclistic-Case-Study/assets/132526212/313bb03e-d381-4a50-96d4-293f310e5de3)
 
 Here is a summary of the key differences found between Members and Casual Riders:
 
@@ -112,4 +108,4 @@ Based on my analysis, I came up with the following reccomendations that I believ
 
 ***3. Weekend Explorer Discounts:* Provide exclusive discounts for weekends and longer rides to incentivize casual riders to become members and enjoy cost savings.**
 
-By implementing these concise strategies, the marketing campaign can effectively convert casual riders into valued members, enriching their biking experience during the summer season.
+By adopting these streamlined strategies, the marketing campaign can successfully transform occasional riders into esteemed members, enhancing their biking experience throughout the summer season
